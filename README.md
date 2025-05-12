@@ -81,7 +81,54 @@ Get-Content "C:\Users\Bang Pateng\.ssh\id_rsa.pub"
 
 ### 2. Cara Menggunakan GPU di VPS
 
+![h1](https://github.com/user-attachments/assets/37e11a1c-dea9-4e09-ad3e-f9ac11ab304f)
 
+- Buka VPS Kamu
+
+```
+ssh-keygen -t rsa -b 4096
+```
+```
+/root/.ssh/id_rsa
+```
+
+- Masukan Password 2x
+
+![h2](https://github.com/user-attachments/assets/68c41122-a0cd-44a7-ae7e-1caea462732d)
+
+```
+cat /root/.ssh/id_rsa.pub
+```
+![h9](https://github.com/user-attachments/assets/41f95a5c-f76d-47bc-a54e-e70c8c48b677)
+
+- Ambil SSH Rsa Pub Kamu
+- Copy Semua dan Paste ke https://app.hyperbolic.xyz/settings
+- Scroll > Paste dan Save
+- Done
+
+![h3](https://github.com/user-attachments/assets/0e2eeab9-2f4c-45a0-b0cc-8589de2f529c)
+
+- Click Home
+- Cari GPU Yang Ingin Kamu Sewa
+- Click `Rent`
+
+![h4](https://github.com/user-attachments/assets/aa9e8e25-bf66-4c74-bd5a-c7c3ce90116c)
+
+- Confirm Rental
+
+![h5](https://github.com/user-attachments/assets/3a2d89cf-3f22-4be9-a6f0-76e0f8e6278d)
+![h6](https://github.com/user-attachments/assets/38574c17-3192-41ca-a011-a99dcf53ae39)
+
+- Click GPU Anda Yang Sudah Aktif
+- Kamu Akan Melihat SSH Hyperbolic Yang Kamu Dapatkan
+- Paste Ke VPS
+
+![ss2](https://github.com/user-attachments/assets/ab4fd5ba-92a8-466c-910d-955dd2e90479)
+
+- Click `Yes`
+- Masukan Password SSH Rsa Kamu
+- Tara Sudah Aktif Dan Dapatkan Kamu Gunakan Untuk Garap Node / Mining
+- Selesai
 
 
 
