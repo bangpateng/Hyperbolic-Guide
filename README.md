@@ -9,7 +9,7 @@ Hyperbolic menyediakan akses ke penyewaan GPU yang terjangkau dan on-demand, den
 - Daftar Menggunakan Email > Verifikasi Email
 - Login
 
-**Noted : **Jika Kamu Melakukan $5 Deposit Pertamamu, Kamu Mendapatkan Credit $6
+**Noted :** Jika Kamu Melakukan $5 Deposit Pertamamu, Kamu Mendapatkan Credit $6
 
 ### 2. Cara Isi Balance Dengan Crypto
 
@@ -41,7 +41,7 @@ Hyperbolic menyediakan akses ke penyewaan GPU yang terjangkau dan on-demand, den
 - Kamu Akan Melihat SSH Yang Kamu Dapatkan
 - Simpan
 
-Noted : Untuk Berhenti Sewa GPU Kamu Bisa Click `Terminted Instanced`
+**Noted :** Untuk Berhenti Sewa GPU Kamu Bisa Click `Terminted Instanced`
 
 ## Cara Menggunakan GPU di Powershell Windows dan VPS
 
